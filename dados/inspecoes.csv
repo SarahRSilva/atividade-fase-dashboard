@@ -1,0 +1,11 @@
+ID_Imagem;Status_Inspecao;Grau_de_Confianca_Pct;Data_Inspecao;Localidade;Talhao;Tipo_Doenca;Lote
+freshPotato (102).jpg;Saudavel;99.83;2026-03-31 20:49:45.081407;Fazenda São João - Vacaria/RS;T-04;N/A;L6428
+freshPotato (111).jpg;Saudavel;99.88;2026-04-06 20:49:45.081447;Fazenda São João - Vacaria/RS;T-04;N/A;L1467
+freshPotato (115).jpg;Saudavel;99.87;2026-04-11 20:49:45.081454;Fazenda Santa Clara - Guarapuava/PR;T-02;N/A;L9672
+freshPotato (116).jpg;Doente;73.43;2026-03-25 20:49:45.081457;Sítio Boa Vista - Ibiraiaras/RS;T-05;Pinta preta;L4741
+freshPotato (119).jpg;Saudavel;95.07;2026-04-01 20:49:45.081460;Sítio Três Pinheiros - Irati/PR;T-01;N/A;L4364
+rottenPotato (101).jpg;Doente;95.2;2026-03-12 20:49:45.081463;Fazenda São João - Vacaria/RS;T-05;Requeima;L7182
+rottenPotato (106).jpg;Doente;72.37;2026-03-25 20:49:45.081464;Fazenda Santa Clara - Guarapuava/PR;T-04;Pinta preta;L5838
+rottenPotato (108).jpg;Doente;98.98;2026-03-21 20:49:45.081466;Fazenda Santa Clara - Guarapuava/PR;T-02;Podridão mole;L2730
+rottenPotato (114).jpg;Doente;83.86;2026-04-01 20:49:45.081467;Sítio Três Pinheiros - Irati/PR;T-05;Pinta preta;L8339
+rottenPotato (121).jpg;Doente;62.96;2026-04-03 20:49:45.081469;Sítio Boa Vista - Ibiraiaras/RS;T-01;Pinta preta;L7336

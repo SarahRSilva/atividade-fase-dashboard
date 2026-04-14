@@ -1,0 +1,11 @@
+ID_Imagem;Status_Inspecao;Grau_de_Confianca_Pct
+freshPotato (102).jpg;Saudavel;99.83
+freshPotato (111).jpg;Saudavel;99.88
+freshPotato (115).jpg;Saudavel;99.87
+freshPotato (116).jpg;Doente;73.43
+freshPotato (119).jpg;Saudavel;95.07
+rottenPotato (101).jpg;Doente;95.20
+rottenPotato (106).jpg;Doente;72.37
+rottenPotato (108).jpg;Doente;98.98
+rottenPotato (114).jpg;Doente;83.86
+rottenPotato (121).jpg;Doente;62.96

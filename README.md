@@ -214,6 +214,7 @@ Substitua `MobileNetV2` por outro modelo (ResNet50, EfficientNetB0, etc.) e ajus
 ## 📚 Tecnologias
 
 **Fase 1**: Python • TensorFlow • Keras • OpenCV • Pillow • NumPy
+
 **Fase 2**: Python • Streamlit • Pandas • Plotly
 
 ---

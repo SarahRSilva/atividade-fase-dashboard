@@ -219,4 +219,4 @@ Substitua `MobileNetV2` por outro modelo (ResNet50, EfficientNetB0, etc.) e ajus
 
 ---
 
-**Projeto desenvolvido para a disciplina de PBL — FIAP 2026**
+**Projeto desenvolvido para a atividade da fase 2 — FIAP 2026**

@@ -169,7 +169,7 @@ Lê todas as imagens em `imagens_teste/` (jpg/jpeg/png), classifica cada uma e g
 
 ## 🎬 Vídeo Explicativo
 
-📺 **Assista à demonstração completa**: [LINK DO VÍDEO AQUI]
+📺 **Assista à demonstração completa**: [[LINK DO VÍDEO AQUI]](https://youtu.be/I-RgRCMwNvE)
 
 O vídeo (2-4 min) cobre:
 - Apresentação do projeto AgroSmart
